@@ -1,0 +1,42 @@
+.login {
+    display: flex;
+    height: 100vh;  
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    z-index: 2;
+}
+
+h2 {
+    justify-content: center;
+    color: #FFFFFF;
+    margin: 50px 0px;
+    z-index: 2;
+}
+
+.login-divForm {
+    
+    width: 800px;
+    /* height: 647px; */
+    background: #FFFFFF;
+    border-radius: 10px;
+    z-index: 2;
+}
+
+.elipse{
+    position: absolute;
+    left: -138px;
+    bottom: 0;
+    z-index: 1;
+}
+
+.vector{
+    position: absolute;
+    right: 0;
+    top: 0px;
+    z-index: 1;
+}
+
+.imgVector{
+    height:686px
+}
