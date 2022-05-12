@@ -1,3 +1,10 @@
 .Card{
     max-width: 300px;
+    border-radius: 20px !important;
+    border: 1px solid black !important;
+}
+.CardTitle{
+    align-items: center;
+    display: flex;
+    justify-content: center;
 }

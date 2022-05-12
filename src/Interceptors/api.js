@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "https://randomuser.me/",
+  baseURL: "https://pokeapi.co",
   timeout: 5000,
 });
 
